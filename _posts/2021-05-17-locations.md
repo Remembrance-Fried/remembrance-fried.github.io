@@ -83,8 +83,8 @@ Most of us are attending Fried's Funeral in different parts of the world. The ma
 <div id="map_frame"></div>
 
 <script>
-var width = 930,
-    height = 490;
+var width = 700,
+    height = 400;
     
 var svg = d3.select("#map_frame")
           .append("svg")
