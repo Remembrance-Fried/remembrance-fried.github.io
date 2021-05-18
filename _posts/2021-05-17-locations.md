@@ -10,8 +10,8 @@ tags: [map, location]
 
 Most of us are attending Fried's Funeral in different parts of the world. The map is indicative of the far-reaching influence of Fried's teachings, generosity, and love.
 
-<!DOCTYPE html>
-<html>
+#<!DOCTYPE html>
+#<html>
 <meta charset="utf-8">
 <head>
 <!-- Load d3.js and the geo projection plugin -->
@@ -199,4 +199,4 @@ d3.csv(pointsData, function(data) {
 </script>
 </body>
 
-</html>
+
