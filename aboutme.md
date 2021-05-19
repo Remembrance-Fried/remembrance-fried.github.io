@@ -4,7 +4,8 @@ title: About Fried
 subtitle: This is a brief informal story of Fried's generous and expansive career
 ---
 
-![Fried](assets/img/Fried03.JPG "Fried Augenbroe")
+
+![Fried](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 
 Our good friend and academic mentor Fried Augenbroe passed away on Friday, May 14th surrounded by his three daughters and loving wife. 
