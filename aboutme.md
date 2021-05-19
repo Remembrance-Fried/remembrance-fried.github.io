@@ -5,7 +5,7 @@ subtitle: This is a brief informal story of Fried's generous and expansive caree
 ---
 
 
-![Fried](https://github.com/Remembrance-Fried/remembrance-fried.github.io/blob/c51bb70eec5d62e284130d3805aad148f1462f80/assets/img/Fried03.JPG)
+###![Fried](https://github.com/Remembrance-Fried/remembrance-fried.github.io/blob/c51bb70eec5d62e284130d3805aad148f1462f80/assets/img/Fried03.JPG)
 
 
 Our good friend and academic mentor Fried Augenbroe passed away on Friday, May 14th surrounded by his three daughters and loving wife. 
