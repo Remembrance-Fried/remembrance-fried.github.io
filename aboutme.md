@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Fried
-subtitle: this is a brief informal story of Fried's generous and expansive career
+subtitle: This is a brief informal story of Fried's generous and expansive career
 ---
 
 Our good friend and academic mentor Fried Augenbroe passed away on Friday, May 14th surrounded by his three daughters and loving wife. 
