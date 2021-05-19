@@ -3,7 +3,7 @@ layout: post
 title: Funeral 19.05.2021
 subtitle: Map of our locations
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Fried01.JPG
+thumbnail-img: /assets/img/Fried01s.JPG
 share-img: /assets/img/path.jpg
 
 ---
