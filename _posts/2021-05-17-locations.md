@@ -142,7 +142,7 @@ function drawRussiaBoundaries() {
     
 // points data CSV path
 
-var pointsData = "https://raw.githubusercontent.com/Remembrance-Fried/remembrance-fried.github.io/master/assets/Augenbroe_points.csv";
+var pointsData = "https://raw.githubusercontent.com/Remembrance-Fried/remembrance-fried.github.io/master/assets/Augenbroe_pointsv2.csv";
 
 // category colors
 
