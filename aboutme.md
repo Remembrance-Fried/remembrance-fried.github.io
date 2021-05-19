@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About Fried
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 subtitle: This is a brief informal story of Fried's generous and expansive career
 ---
 
